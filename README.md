@@ -1,1 +1,3 @@
 # flaresolver-jackett
+
+Enjoy!
